@@ -28,6 +28,8 @@
 - 🔹 VS Code / Android Studio
 
 ---
+### 👀 Profile views: 
+
 ![Profile views](https://profile-counter.glitch.me/mihajloslav/count.svg)
 
 ---
