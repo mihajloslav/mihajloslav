@@ -31,8 +31,6 @@
 
 ### 📈 GitHub Stats
 
-### 📈 GitHub Stats
-
 ![Mihajlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihajloslav&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihajloslav&layout=compact&theme=tokyonight)
 
