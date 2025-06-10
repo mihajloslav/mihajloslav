@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Mihajlo Ranđelović]
+# 👋 Hey there! I'm Mihajlo Ranđelović
 
 🎓 I'm a **Computer Science student** passionate about creating beautiful and performant mobile apps.  
 📱 I mainly focus on **mobile development** using **Flutter** and **Dart**, and I love building cross-platform solutions that feel native.
@@ -10,7 +10,7 @@
 - 🧑‍💻 Currently learning and building with **Flutter** and **Dart**
 - 🤖 Recently exploring how to **integrate AI** into mobile apps using APIs like OpenAI, HuggingFace, and similar services
 - 🔥 Passionate about clean UI/UX and writing maintainable, scalable code
-- 📚 Learning about **state management** (Riverpod, BLoC), **Firebase**, and **Flutter animations**
+- 📚 Learning about **state management** (Riverpod), **Supabase**, and **Flutter animations**
 - 🎯 My goal is to become a full-time **Flutter developer** and work on innovative apps that solve real-world problems
 
 ---
@@ -18,7 +18,6 @@
 ### 🛠️ Technologies & Tools
 
 - 🔹 Flutter & Dart
-- 🔹 Firebase (Authentication, Firestore, Cloud Functions)
 - 🔹 Supabase
 - 🔹 AI APIs (OpenAI, DeepSeek, HuggingFace)
 - 🔹 REST API
